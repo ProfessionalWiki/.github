@@ -1,11 +1,14 @@
-[Professional Wiki] provides [MediaWiki hosting], [MediaWiki consulting], [MediaWiki development], and [MediaWiki services].
+[Professional Wiki] builds sovereign knowledge infrastructure with MediaWiki, [knowledge graphs], and [AI].
 
-We maintain a wide range of open source [MediaWiki extensions] and tools on this account and on [@SemanticMediaWiki].
+You can rely on our expertise for [MediaWiki hosting], [MediaWiki services], and [software development].
+
+We maintain a wide range of open source projects here on GitHub. Also see our [projects overview] and [blog].
 
 [Professional Wiki]: https://professional.wiki/
 [MediaWiki services]: https://professional.wiki/en/services
 [MediaWiki hosting]: https://www.pro.wiki/
-[MediaWiki consulting]: https://professional.wiki/en/mediawiki-consulting-services
-[MediaWiki development]: https://professional.wiki/en/mediawiki-development
-[MediaWiki extensions]: https://www.pro.wiki/articles/best-mediawiki-extensions/
-[@SemanticMediaWiki]: https://github.com/SemanticMediaWiki/
+[software development]: https://professional.wiki/en/mediawiki-development
+[projects overview]: https://professional.wiki/en/projects
+[knowledge graphs]: https://professional.wiki/en/wikibase-wikidata-and-knowledge-graphs
+[AI]: https://professional.wiki/en/mediawiki-and-ai
+[blog]: https://professional.wiki/en/blog
